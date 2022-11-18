@@ -1,0 +1,23 @@
+body{
+    height: auto;
+    width: auto;
+}
+
+#bigTitle{
+    color: green;
+}
+
+#img{
+    width: 300px;
+    height: auto;
+}
+
+.smallTT{
+    color: green;
+}
+
+.unList, .orList, #desc{
+    text-align: justify;
+    font-family: Tahoma, sans-serif;
+    font-size: medium;
+}
